@@ -81,28 +81,14 @@
   </url>
   
   <url>
-    <loc>https://oldman.github.io/tags/Hermes-Agent/</loc>
+    <loc>https://oldman.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oldman.github.io/tags/AI%E5%8A%A9%E6%89%8B/</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oldman.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oldman.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</loc>
+    <loc>https://oldman.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -130,14 +116,28 @@
   </url>
   
   <url>
-    <loc>https://oldman.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://oldman.github.io/tags/Hermes-Agent/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oldman.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://oldman.github.io/tags/AI%E5%8A%A9%E6%89%8B/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oldman.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oldman.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
