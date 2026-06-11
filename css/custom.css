@@ -1,0 +1,45 @@
+/* 自定义样式 */
+
+/* 文章卡片样式 */
+.post-card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* 广告位样式 */
+.card-widget.ads {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+}
+
+.card-widget.ads p {
+  margin: 5px 0;
+  color: white;
+}
+
+/* 修复侧边栏广告位 */
+#ads {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+}
+
+#ads .card-title {
+  color: white !important;
+}
+
+#ads p {
+  color: rgba(255, 255, 255, 0.9);
+}
