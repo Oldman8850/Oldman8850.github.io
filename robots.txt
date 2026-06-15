@@ -1,0 +1,9 @@
+﻿User-agent: *
+Allow: /
+
+# Disallow admin pages
+Disallow: /admin/
+
+# Sitemaps
+Sitemap: https://oldman8850.github.io/sitemap.xml
+Sitemap: https://oldman8850.github.io/atom.xml
