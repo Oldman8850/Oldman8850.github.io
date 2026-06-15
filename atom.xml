@@ -11,7 +11,7 @@
   <rights>All rights reserved 2026, Oldman</rights>
   <subtitle>分享技术与知识</subtitle>
   <title>Oldman的技术博客</title>
-  <updated>2026-06-15T05:37:57.754Z</updated>
+  <updated>2026-06-15T05:45:21.097Z</updated>
   <entry>
     <author>
       <name>Oldman</name>
@@ -27,7 +27,7 @@
     <published>2026-06-15T12:00:00.000Z</published>
     <summary>一个编程新手用 7 天时间，借 Claude Code / MiMo / Hermes Agent 三个 AI 工具，搭出 GitHub Pages 个人博客的真实记录。包含每个工具的优缺点、踩过的坑、什么场景该选谁、未来的使用计划。给同样想用 AI 提效的个人开发者参考。</summary>
     <title>🤖 我用 Claude Code + MiMo + Hermes 三件套搭博客：真实体验 + 踩坑总结</title>
-    <updated>2026-06-15T05:37:57.754Z</updated>
+    <updated>2026-06-15T05:45:21.097Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,9 +72,9 @@
     <category term="编程教程" scheme="https://oldman8850.github.io/categories/%E7%BC%96%E7%A8%8B%E6%95%99%E7%A8%8B/"/>
     <category term="工具开发" scheme="https://oldman8850.github.io/categories/%E7%BC%96%E7%A8%8B%E6%95%99%E7%A8%8B/%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91/"/>
     <category term="Next.js" scheme="https://oldman8850.github.io/tags/Next-js/"/>
+    <category term="Prisma" scheme="https://oldman8850.github.io/tags/Prisma/"/>
     <category term="教程" scheme="https://oldman8850.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     <category term="AI编程" scheme="https://oldman8850.github.io/tags/AI%E7%BC%96%E7%A8%8B/"/>
-    <category term="Prisma" scheme="https://oldman8850.github.io/tags/Prisma/"/>
     <id>https://oldman8850.github.io/2026/06/12/03-%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E6%89%93%E5%AD%97%E7%BD%91%E7%AB%99-%E5%8F%AF%E8%A7%86%E5%8C%96%E9%94%AE%E7%9B%98%E4%B8%8E%E8%AF%BE%E7%A8%8B%E7%B3%BB%E7%BB%9F/</id>
     <link href="https://oldman8850.github.io/2026/06/12/03-%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E6%89%93%E5%AD%97%E7%BD%91%E7%AB%99-%E5%8F%AF%E8%A7%86%E5%8C%96%E9%94%AE%E7%9B%98%E4%B8%8E%E8%AF%BE%E7%A8%8B%E7%B3%BB%E7%BB%9F/"/>
     <published>2026-06-12T07:00:00.000Z</published>
@@ -128,7 +128,7 @@
     <published>2026-06-11T06:30:00.000Z</published>
     <summary>深度评测小米开源的 MiMo Code AI 编程助手。从架构（OpenCode fork）、跨会话记忆、上下文管理、多智能体模式、模型支持五个维度分析，告诉你它值不值得用、和 Claude Code 有什么差异、什么场景下应该选它。</summary>
     <title>MiMo Code 评测：小米开源的 AI 编程助手值得用吗？</title>
-    <updated>2026-06-15T05:10:30.424Z</updated>
+    <updated>2026-06-15T05:45:21.099Z</updated>
   </entry>
   <entry>
     <author>
@@ -138,8 +138,8 @@
     <category term="教程" scheme="https://oldman8850.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E6%95%99%E7%A8%8B/"/>
     <category term="教程" scheme="https://oldman8850.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     <category term="Hermes Agent" scheme="https://oldman8850.github.io/tags/Hermes-Agent/"/>
-    <category term="Hexo" scheme="https://oldman8850.github.io/tags/Hexo/"/>
     <category term="博客搭建" scheme="https://oldman8850.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="Hexo" scheme="https://oldman8850.github.io/tags/Hexo/"/>
     <category term="Butterfly" scheme="https://oldman8850.github.io/tags/Butterfly/"/>
     <id>https://oldman8850.github.io/2026/06/11/%E5%A6%82%E4%BD%95%E5%9C%A8Hermes-Agent%E4%B8%AD%E9%85%8D%E7%BD%AEHexo-Butterfly%E4%B8%BB%E9%A2%98/</id>
     <link href="https://oldman8850.github.io/2026/06/11/%E5%A6%82%E4%BD%95%E5%9C%A8Hermes-Agent%E4%B8%AD%E9%85%8D%E7%BD%AEHexo-Butterfly%E4%B8%BB%E9%A2%98/"/>
@@ -170,8 +170,8 @@
     <category term="博客搭建" scheme="https://oldman8850.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <category term="教程" scheme="https://oldman8850.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E6%95%99%E7%A8%8B/"/>
     <category term="GitHub" scheme="https://oldman8850.github.io/tags/GitHub/"/>
-    <category term="Hexo" scheme="https://oldman8850.github.io/tags/Hexo/"/>
     <category term="博客搭建" scheme="https://oldman8850.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="Hexo" scheme="https://oldman8850.github.io/tags/Hexo/"/>
     <id>https://oldman8850.github.io/2026/06/11/%E5%A6%82%E4%BD%95%E5%9C%A8GitHub%E4%B8%8A%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2-Hexo%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
     <link href="https://oldman8850.github.io/2026/06/11/%E5%A6%82%E4%BD%95%E5%9C%A8GitHub%E4%B8%8A%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2-Hexo%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
     <published>2026-06-11T02:00:00.000Z</published>
