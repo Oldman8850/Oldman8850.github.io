@@ -39,8 +39,8 @@
     <category term="Next.js" scheme="https://oldman8850.github.io/tags/Next-js/"/>
     <category term="教程" scheme="https://oldman8850.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     <category term="AI编程" scheme="https://oldman8850.github.io/tags/AI%E7%BC%96%E7%A8%8B/"/>
-    <category term="Vercel" scheme="https://oldman8850.github.io/tags/Vercel/"/>
     <category term="GitHub" scheme="https://oldman8850.github.io/tags/GitHub/"/>
+    <category term="Vercel" scheme="https://oldman8850.github.io/tags/Vercel/"/>
     <id>https://oldman8850.github.io/2026/06/12/04-%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E6%89%93%E5%AD%97%E7%BD%91%E7%AB%99-%E9%83%A8%E7%BD%B2%E4%B8%8A%E7%BA%BF%E4%B8%8E%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</id>
     <link href="https://oldman8850.github.io/2026/06/12/04-%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E6%89%93%E5%AD%97%E7%BD%91%E7%AB%99-%E9%83%A8%E7%BD%B2%E4%B8%8A%E7%BA%BF%E4%B8%8E%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
     <published>2026-06-12T07:30:00.000Z</published>
@@ -72,9 +72,9 @@
     <category term="编程教程" scheme="https://oldman8850.github.io/categories/%E7%BC%96%E7%A8%8B%E6%95%99%E7%A8%8B/"/>
     <category term="工具开发" scheme="https://oldman8850.github.io/categories/%E7%BC%96%E7%A8%8B%E6%95%99%E7%A8%8B/%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91/"/>
     <category term="Next.js" scheme="https://oldman8850.github.io/tags/Next-js/"/>
+    <category term="React" scheme="https://oldman8850.github.io/tags/React/"/>
     <category term="教程" scheme="https://oldman8850.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     <category term="AI编程" scheme="https://oldman8850.github.io/tags/AI%E7%BC%96%E7%A8%8B/"/>
-    <category term="React" scheme="https://oldman8850.github.io/tags/React/"/>
     <id>https://oldman8850.github.io/2026/06/12/02-%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E6%89%93%E5%AD%97%E7%BD%91%E7%AB%99-%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91/</id>
     <link href="https://oldman8850.github.io/2026/06/12/02-%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E6%89%93%E5%AD%97%E7%BD%91%E7%AB%99-%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91/"/>
     <published>2026-06-12T06:30:00.000Z</published>
@@ -109,11 +109,9 @@
     <id>https://oldman8850.github.io/2026/06/11/mimo-code-review/</id>
     <link href="https://oldman8850.github.io/2026/06/11/mimo-code-review/"/>
     <published>2026-06-11T06:30:00.000Z</published>
-    <summary>
-      <![CDATA[<p><strong>MiMo Code</strong> 是小米开源的终端原生 AI 编程智能体，基于 OpenCode fork 开发，主打”跨会话记忆”这一差异化特性。本文从实际体验出发，客观分析其优缺点。</p>]]>
-    </summary>
+    <summary>深度评测小米开源的 MiMo Code AI 编程助手。从架构（OpenCode fork）、跨会话记忆、上下文管理、多智能体模式、模型支持五个维度分析，告诉你它值不值得用、和 Claude Code 有什么差异、什么场景下应该选它。</summary>
     <title>MiMo Code 评测：小米开源的 AI 编程助手值得用吗？</title>
-    <updated>2026-06-15T02:54:33.941Z</updated>
+    <updated>2026-06-15T05:10:30.424Z</updated>
   </entry>
   <entry>
     <author>
@@ -154,8 +152,8 @@
     </author>
     <category term="博客搭建" scheme="https://oldman8850.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <category term="教程" scheme="https://oldman8850.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E6%95%99%E7%A8%8B/"/>
-    <category term="GitHub" scheme="https://oldman8850.github.io/tags/GitHub/"/>
     <category term="Hexo" scheme="https://oldman8850.github.io/tags/Hexo/"/>
+    <category term="GitHub" scheme="https://oldman8850.github.io/tags/GitHub/"/>
     <category term="博客搭建" scheme="https://oldman8850.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>https://oldman8850.github.io/2026/06/11/%E5%A6%82%E4%BD%95%E5%9C%A8GitHub%E4%B8%8A%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2-Hexo%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
     <link href="https://oldman8850.github.io/2026/06/11/%E5%A6%82%E4%BD%95%E5%9C%A8GitHub%E4%B8%8A%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2-Hexo%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
