@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oldman8850.github.io/2026/06/15/06-AI%E4%B8%89%E4%BB%B6%E5%A5%97%E6%90%AD%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2026-06-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oldman8850.github.io/2026/06/11/mimo-code-review/</loc>
     
     <lastmod>2026-06-15</lastmod>
@@ -153,13 +162,6 @@
   </url>
   
   <url>
-    <loc>https://oldman8850.github.io/tags/React/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oldman8850.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,6 +177,13 @@
   
   <url>
     <loc>https://oldman8850.github.io/tags/Prisma/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oldman8850.github.io/tags/React/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -202,14 +211,7 @@
   </url>
   
   <url>
-    <loc>https://oldman8850.github.io/tags/%E5%B7%A5%E5%85%B7%E8%AF%84%E6%B5%8B/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oldman8850.github.io/tags/Hexo/</loc>
+    <loc>https://oldman8850.github.io/tags/Vercel/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -223,6 +225,13 @@
   </url>
   
   <url>
+    <loc>https://oldman8850.github.io/tags/%E5%B7%A5%E5%85%B7%E8%AF%84%E6%B5%8B/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oldman8850.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,14 +239,28 @@
   </url>
   
   <url>
-    <loc>https://oldman8850.github.io/tags/Butterfly/</loc>
+    <loc>https://oldman8850.github.io/tags/AI%E5%8A%A9%E6%89%8B/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oldman8850.github.io/tags/Vercel/</loc>
+    <loc>https://oldman8850.github.io/tags/%E7%BB%8F%E9%AA%8C/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oldman8850.github.io/tags/Hexo/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oldman8850.github.io/tags/Butterfly/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -268,6 +291,13 @@
   
   <url>
     <loc>https://oldman8850.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oldman8850.github.io/categories/AI-%E5%B7%A5%E5%85%B7/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
